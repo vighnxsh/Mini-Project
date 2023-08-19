@@ -5,7 +5,7 @@ body {
   /* font-family: 'Nunito', sans-serif; */
   font-family: 'Outfit', sans-serif;
   font-weight: bold;
-  background-color: rgba(255, 195, 195, 0.555);
+  background-color: rgb(255, 248, 248);
 }
 
 * {
@@ -159,7 +159,7 @@ body {
 span{
   font-style: italic;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  color: black;
+  color: rgb(0250, 0, 25);
   opacity: 1;
 }
 
